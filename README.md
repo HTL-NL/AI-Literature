@@ -11,3 +11,6 @@ Available formats
 
 No tracking, no paywall, no updates pushed.
 This repository simply hosts the artifact.
+
+You can also read the story online: https://medium.com/@notflyingsoon/ivy-inc-f340787bdb1a
+
