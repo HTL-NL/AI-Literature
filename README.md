@@ -4,6 +4,7 @@ The first work here is Homo Ex Machina, a short story examining what happens whe
 
 The story is fiction.
 The systems and incentives it describes are not.
+It is not written by AI, but about AI.
 
 Available formats
 	•	PDF – for fixed-layout reading
